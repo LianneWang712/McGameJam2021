@@ -20,7 +20,6 @@ public class playermovement : MonoBehaviour
     public float bottomYRange = -4.5f;
     public GameObject heart1;
     public bool invicible = false;
-    public bool hasKilled = false;
 
     // Start is called before the first frame update
     void Start()
@@ -39,6 +38,10 @@ public class playermovement : MonoBehaviour
         }
         else animator.SetBool("shooting", false);
 
+        if (playerData.hasKilled)
+        {
+            Debug.Log("has killed");
+        }
     }
 
     // Update is called once per frame
