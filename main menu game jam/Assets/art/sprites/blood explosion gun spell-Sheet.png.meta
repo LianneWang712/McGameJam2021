@@ -1,0 +1,1760 @@
+fileFormatVersion: 2
+guid: e87ee013a5c7abb42a07ce457d2e31d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 453427218893492676
+    second: blood explosion gun spell-Sheet_0
+  - first:
+      213: -8784246445127725717
+    second: blood explosion gun spell-Sheet_1
+  - first:
+      213: 7496546804957000903
+    second: blood explosion gun spell-Sheet_2
+  - first:
+      213: -6553675966350726667
+    second: blood explosion gun spell-Sheet_3
+  - first:
+      213: 8199080492409133455
+    second: blood explosion gun spell-Sheet_4
+  - first:
+      213: -6033399506741028236
+    second: blood explosion gun spell-Sheet_5
+  - first:
+      213: -6658388258478366466
+    second: blood explosion gun spell-Sheet_6
+  - first:
+      213: -5122794093420318574
+    second: blood explosion gun spell-Sheet_7
+  - first:
+      213: 1258780599955878762
+    second: blood explosion gun spell-Sheet_8
+  - first:
+      213: 4885294138642778386
+    second: blood explosion gun spell-Sheet_9
+  - first:
+      213: 897875818026334479
+    second: blood explosion gun spell-Sheet_10
+  - first:
+      213: -2473234836510993777
+    second: blood explosion gun spell-Sheet_11
+  - first:
+      213: 104965074402833392
+    second: blood explosion gun spell-Sheet_12
+  - first:
+      213: 1448386504101000063
+    second: blood explosion gun spell-Sheet_13
+  - first:
+      213: 8218045356598442118
+    second: blood explosion gun spell-Sheet_14
+  - first:
+      213: -5020335105260939874
+    second: blood explosion gun spell-Sheet_15
+  - first:
+      213: -3866786769511505962
+    second: blood explosion gun spell-Sheet_16
+  - first:
+      213: 2755345260201256736
+    second: blood explosion gun spell-Sheet_17
+  - first:
+      213: -8298364365440427498
+    second: blood explosion gun spell-Sheet_18
+  - first:
+      213: 1836384036995061537
+    second: blood explosion gun spell-Sheet_19
+  - first:
+      213: -8183219463408946934
+    second: blood explosion gun spell-Sheet_20
+  - first:
+      213: 4679557637907041419
+    second: blood explosion gun spell-Sheet_21
+  - first:
+      213: 4470780008384354082
+    second: blood explosion gun spell-Sheet_22
+  - first:
+      213: 565483349002529998
+    second: blood explosion gun spell-Sheet_23
+  - first:
+      213: -7183267946615694036
+    second: blood explosion gun spell-Sheet_24
+  - first:
+      213: -4325085855551421983
+    second: blood explosion gun spell-Sheet_25
+  - first:
+      213: 3262223365207910079
+    second: blood explosion gun spell-Sheet_26
+  - first:
+      213: -5039631137400067978
+    second: blood explosion gun spell-Sheet_27
+  - first:
+      213: 2496693480716862754
+    second: blood explosion gun spell-Sheet_28
+  - first:
+      213: 6981027198735304292
+    second: blood explosion gun spell-Sheet_29
+  - first:
+      213: 4081051824077647995
+    second: blood explosion gun spell-Sheet_30
+  - first:
+      213: 7638605587228784080
+    second: blood explosion gun spell-Sheet_31
+  - first:
+      213: 6751506280909370281
+    second: blood explosion gun spell-Sheet_32
+  - first:
+      213: 298166430119698270
+    second: blood explosion gun spell-Sheet_33
+  - first:
+      213: 4207202054588074862
+    second: blood explosion gun spell-Sheet_34
+  - first:
+      213: 4097491610292366888
+    second: blood explosion gun spell-Sheet_35
+  - first:
+      213: 939827629260251694
+    second: blood explosion gun spell-Sheet_36
+  - first:
+      213: 4244472868039565526
+    second: blood explosion gun spell-Sheet_37
+  - first:
+      213: -5463254540248639680
+    second: blood explosion gun spell-Sheet_38
+  - first:
+      213: -5726562950248718600
+    second: blood explosion gun spell-Sheet_39
+  - first:
+      213: 280417486006163972
+    second: blood explosion gun spell-Sheet_40
+  - first:
+      213: 640835015006835376
+    second: blood explosion gun spell-Sheet_41
+  - first:
+      213: 8433409283944034930
+    second: blood explosion gun spell-Sheet_42
+  - first:
+      213: -2941584129756219327
+    second: blood explosion gun spell-Sheet_43
+  - first:
+      213: -1660388527671974634
+    second: blood explosion gun spell-Sheet_44
+  - first:
+      213: -1955787416004571282
+    second: blood explosion gun spell-Sheet_45
+  - first:
+      213: 72971840198896770
+    second: blood explosion gun spell-Sheet_46
+  - first:
+      213: 6074587179572313796
+    second: blood explosion gun spell-Sheet_47
+  - first:
+      213: -267231934952746087
+    second: blood explosion gun spell-Sheet_48
+  - first:
+      213: -3369142497752951204
+    second: blood explosion gun spell-Sheet_49
+  - first:
+      213: -3533051463669061098
+    second: blood explosion gun spell-Sheet_50
+  - first:
+      213: -3364258966283238791
+    second: blood explosion gun spell-Sheet_51
+  - first:
+      213: 8217797768562651643
+    second: blood explosion gun spell-Sheet_52
+  - first:
+      213: -5488254722535380278
+    second: blood explosion gun spell-Sheet_53
+  - first:
+      213: -3303639003302348724
+    second: blood explosion gun spell-Sheet_54
+  - first:
+      213: -6646878844604443076
+    second: blood explosion gun spell-Sheet_55
+  - first:
+      213: -9167258841907229101
+    second: blood explosion gun spell-Sheet_56
+  - first:
+      213: 1348478067951125701
+    second: blood explosion gun spell-Sheet_57
+  - first:
+      213: -4215072950433956345
+    second: blood explosion gun spell-Sheet_58
+  - first:
+      213: -8564612671911388856
+    second: blood explosion gun spell-Sheet_59
+  - first:
+      213: -7862644781571280570
+    second: blood explosion gun spell-Sheet_60
+  - first:
+      213: -6138270285747075061
+    second: blood explosion gun spell-Sheet_61
+  - first:
+      213: -3266767101907353508
+    second: blood explosion gun spell-Sheet_62
+  - first:
+      213: 5835492096802616344
+    second: blood explosion gun spell-Sheet_63
+  - first:
+      213: -3524894264153232395
+    second: blood explosion gun spell-Sheet_64
+  - first:
+      213: 2242581315711745289
+    second: blood explosion gun spell-Sheet_65
+  - first:
+      213: -6754717911643298798
+    second: blood explosion gun spell-Sheet_66
+  - first:
+      213: -5150563558644245134
+    second: blood explosion gun spell-Sheet_67
+  - first:
+      213: -5686621031026658439
+    second: blood explosion gun spell-Sheet_68
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1138
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1d3a937a5ea4600800000000000000
+      internalID: 453427218893492676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1076
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d8caa2666181680800000000000000
+      internalID: -8784246445127725717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1014
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c43d87c995190860800000000000000
+      internalID: 7496546804957000903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 951
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f966a47e6aac05a0800000000000000
+      internalID: -6553675966350726667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 903
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8991ea644cf8c170800000000000000
+      internalID: 8199080492409133455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 883
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a1fac6d1f054ca0800000000000000
+      internalID: -6033399506741028236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 890
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0e3c41827a893a0800000000000000
+      internalID: -6658388258478366466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 828
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290763ce9ed28e8b0800000000000000
+      internalID: -5122794093420318574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 842
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63f58e4946187110800000000000000
+      internalID: 1258780599955878762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 827
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219c91db22d0cc340800000000000000
+      internalID: 4885294138642778386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 825
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f097fd1ac45e57c00800000000000000
+      internalID: 897875818026334479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 822
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8214ab150e4dadd0800000000000000
+      internalID: -2473234836510993777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 815
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f37a95dd29e47100800000000000000
+      internalID: 104965074402833392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 766
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73f8620ad3b91410800000000000000
+      internalID: 1448386504101000063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 762
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6883914f5bc5c0270800000000000000
+      internalID: 8218045356598442118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 757
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e959f7512df245ab0800000000000000
+      internalID: -5020335105260939874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 732
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df16159be9665ac0800000000000000
+      internalID: -3866786769511505962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 704
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0272adb6ae3fc3620800000000000000
+      internalID: 2755345260201256736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 675
+        width: 63
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ad925839946dc80800000000000000
+      internalID: -8298364365440427498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 642
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127d9445d852c7910800000000000000
+      internalID: 1836384036995061537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 566
+        width: 92
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01727c214d5f6e80800000000000000
+      internalID: -8183219463408946934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 580
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c4a69d0e021f040800000000000000
+      internalID: 4679557637907041419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 578
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227daacfab66b0e30800000000000000
+      internalID: 4470780008384354082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 518
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecca1bf1c1009d700800000000000000
+      internalID: 565483349002529998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 530
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d95837cd7ef4c90800000000000000
+      internalID: -7183267946615694036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 456
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e18ac464553af3c0800000000000000
+      internalID: -4325085855551421983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 468
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6623ddddeb54d20800000000000000
+      internalID: 3262223365207910079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 394
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67865408e22af0ab0800000000000000
+      internalID: -5039631137400067978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 392
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225892f1e7906a220800000000000000
+      internalID: 2496693480716862754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 332
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46645fb004791e060800000000000000
+      internalID: 6981027198735304292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 330
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70bb1cf20fc2a830800000000000000
+      internalID: 4081051824077647995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 290
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5f51e7f47c10a60800000000000000
+      internalID: 7638605587228784080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 297
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3fb64013b22bd50800000000000000
+      internalID: 6751506280909370281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 270
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f1b37d9cc432400800000000000000
+      internalID: 298166430119698270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 277
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b040a5afbf26a30800000000000000
+      internalID: 4207202054588074862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 274
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82eae9df8e63dd830800000000000000
+      internalID: 4097491610292366888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 281
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22a728df30fa0d00800000000000000
+      internalID: 939827629260251694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 266
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d02846d59567ea30800000000000000
+      internalID: 4244472868039565526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 266
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04790f2f0fe9e24b0800000000000000
+      internalID: -5463254540248639680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 235
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe138e56592780b0800000000000000
+      internalID: -5726562950248718600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 226
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a9432c73e34e300800000000000000
+      internalID: 280417486006163972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 217
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b25d150d04b4e800800000000000000
+      internalID: 640835015006835376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 208
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27237f6cf0d790570800000000000000
+      internalID: 8433409283944034930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 214
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14834f4b1d46d27d0800000000000000
+      internalID: -2941584129756219327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 206
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6156af26e6d15f8e0800000000000000
+      internalID: -1660388527671974634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 202
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f4ed415b5abd4e0800000000000000
+      internalID: -1955787416004571282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 202
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c69a5808f330100800000000000000
+      internalID: 72971840198896770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 146
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cebc83fad44d4450800000000000000
+      internalID: 6074587179572313796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 156
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993508498f99a4cf0800000000000000
+      internalID: -267231934952746087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 142
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5653cfafb66e31d0800000000000000
+      internalID: -3369142497752951204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 134
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ae4d6a96418fec0800000000000000
+      internalID: -3533051463669061098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 135
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972c3467b40cf41d0800000000000000
+      internalID: -3364258966283238791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 134
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1bc2fd78b7b0270800000000000000
+      internalID: 8217797768562651643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 84
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca2b6a686dc5d3b0800000000000000
+      internalID: -5488254722535380278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 89
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48b90674dd1722d0800000000000000
+      internalID: -3303639003302348724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 88
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c361b4258ea81c3a0800000000000000
+      internalID: -6646878844604443076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 77
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e8f0c47aa57c080800000000000000
+      internalID: -9167258841907229101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 69
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4c1a388a1c6b210800000000000000
+      internalID: 1348478067951125701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 70
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70eb607eb7d0185c0800000000000000
+      internalID: -4215072950433956345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 77
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84999e3f622642980800000000000000
+      internalID: -8564612671911388856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 77
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6417d5faa3642e290800000000000000
+      internalID: -7862644781571280570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 72
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08c5b272bb70daa0800000000000000
+      internalID: -6138270285747075061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 22
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5041eef0ac1aa2d0800000000000000
+      internalID: -3266767101907353508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 7
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814f48fe425dbf050800000000000000
+      internalID: 5835492096802616344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 17
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fba55aa75f051fc0800000000000000
+      internalID: -3524894264153232395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 12
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d3dee23df3f1f10800000000000000
+      internalID: 2242581315711745289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 8
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214688ee8db6242a0800000000000000
+      internalID: -6754717911643298798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 10
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d10f57bb58588b0800000000000000
+      internalID: -5150563558644245134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood explosion gun spell-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 15
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973f3612d401511b0800000000000000
+      internalID: -5686621031026658439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3524 @@
+fileFormatVersion: 2
+guid: 8c83a01f72a0c2a4aaaf03f9508adef0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3476032300108191316
+    second: blood moon sprite Opacity low_0
+  - first:
+      213: -6948646075027699317
+    second: blood moon sprite Opacity low_1
+  - first:
+      213: -4204121614459265848
+    second: blood moon sprite Opacity low_2
+  - first:
+      213: -4024041885039601681
+    second: blood moon sprite Opacity low_3
+  - first:
+      213: 6475302884591047997
+    second: blood moon sprite Opacity low_4
+  - first:
+      213: -6349827376210910571
+    second: blood moon sprite Opacity low_5
+  - first:
+      213: 4992407693882639364
+    second: blood moon sprite Opacity low_6
+  - first:
+      213: 8369498441940618390
+    second: blood moon sprite Opacity low_7
+  - first:
+      213: -1421401364854613957
+    second: blood moon sprite Opacity low_8
+  - first:
+      213: -4051498004890340482
+    second: blood moon sprite Opacity low_9
+  - first:
+      213: 4462010233415014007
+    second: blood moon sprite Opacity low_10
+  - first:
+      213: 62336238139937016
+    second: blood moon sprite Opacity low_11
+  - first:
+      213: 7504297497802106950
+    second: blood moon sprite Opacity low_12
+  - first:
+      213: 3736582309621280045
+    second: blood moon sprite Opacity low_13
+  - first:
+      213: 809710262306690115
+    second: blood moon sprite Opacity low_14
+  - first:
+      213: -6089240115121688876
+    second: blood moon sprite Opacity low_15
+  - first:
+      213: 7744177456696385365
+    second: blood moon sprite Opacity low_16
+  - first:
+      213: -4996787002621631513
+    second: blood moon sprite Opacity low_17
+  - first:
+      213: 802751639906571439
+    second: blood moon sprite Opacity low_18
+  - first:
+      213: 4322737231426142610
+    second: blood moon sprite Opacity low_19
+  - first:
+      213: 1765445850039165493
+    second: blood moon sprite Opacity low_20
+  - first:
+      213: -3764481634140891461
+    second: blood moon sprite Opacity low_21
+  - first:
+      213: -7849126718172892142
+    second: blood moon sprite Opacity low_22
+  - first:
+      213: -89546634223411553
+    second: blood moon sprite Opacity low_23
+  - first:
+      213: 4233569132267168291
+    second: blood moon sprite Opacity low_24
+  - first:
+      213: -7826699818043671090
+    second: blood moon sprite Opacity low_25
+  - first:
+      213: -1625447360928639316
+    second: blood moon sprite Opacity low_26
+  - first:
+      213: -6349440688323436746
+    second: blood moon sprite Opacity low_27
+  - first:
+      213: 7012701218993477270
+    second: blood moon sprite Opacity low_28
+  - first:
+      213: -6605698065794791858
+    second: blood moon sprite Opacity low_29
+  - first:
+      213: 7704738071443609403
+    second: blood moon sprite Opacity low_30
+  - first:
+      213: -9151634581906771444
+    second: blood moon sprite Opacity low_31
+  - first:
+      213: 2838697023977590966
+    second: blood moon sprite Opacity low_32
+  - first:
+      213: -7955337378057328385
+    second: blood moon sprite Opacity low_33
+  - first:
+      213: -2840264245414664137
+    second: blood moon sprite Opacity low_34
+  - first:
+      213: -4569812029238305418
+    second: blood moon sprite Opacity low_35
+  - first:
+      213: 2451107982965899644
+    second: blood moon sprite Opacity low_36
+  - first:
+      213: -2366760068592181562
+    second: blood moon sprite Opacity low_37
+  - first:
+      213: 154965309958276372
+    second: blood moon sprite Opacity low_38
+  - first:
+      213: -7981204200643152753
+    second: blood moon sprite Opacity low_39
+  - first:
+      213: 7602516270191080703
+    second: blood moon sprite Opacity low_40
+  - first:
+      213: -2891627423587224637
+    second: blood moon sprite Opacity low_41
+  - first:
+      213: -509500340718765047
+    second: blood moon sprite Opacity low_42
+  - first:
+      213: -4105861195442124442
+    second: blood moon sprite Opacity low_43
+  - first:
+      213: -5008771983133506933
+    second: blood moon sprite Opacity low_44
+  - first:
+      213: 8421619798520062138
+    second: blood moon sprite Opacity low_45
+  - first:
+      213: 5869205858424569799
+    second: blood moon sprite Opacity low_46
+  - first:
+      213: -3815214261164492673
+    second: blood moon sprite Opacity low_47
+  - first:
+      213: 8583566150310618991
+    second: blood moon sprite Opacity low_48
+  - first:
+      213: 1516961356746868216
+    second: blood moon sprite Opacity low_49
+  - first:
+      213: 2247781937604334190
+    second: blood moon sprite Opacity low_50
+  - first:
+      213: 4969972979361895547
+    second: blood moon sprite Opacity low_51
+  - first:
+      213: -1480414182499149729
+    second: blood moon sprite Opacity low_52
+  - first:
+      213: 3767391193427422748
+    second: blood moon sprite Opacity low_53
+  - first:
+      213: 3512152094089535376
+    second: blood moon sprite Opacity low_54
+  - first:
+      213: 5307571036217259197
+    second: blood moon sprite Opacity low_55
+  - first:
+      213: 6879542142838207149
+    second: blood moon sprite Opacity low_56
+  - first:
+      213: 3714033808284591073
+    second: blood moon sprite Opacity low_57
+  - first:
+      213: 8189811929635146527
+    second: blood moon sprite Opacity low_58
+  - first:
+      213: -3571605680712518476
+    second: blood moon sprite Opacity low_59
+  - first:
+      213: -9129987297287975380
+    second: blood moon sprite Opacity low_60
+  - first:
+      213: 8422806721083753659
+    second: blood moon sprite Opacity low_61
+  - first:
+      213: -5954872358036791627
+    second: blood moon sprite Opacity low_62
+  - first:
+      213: -4369993839541152266
+    second: blood moon sprite Opacity low_63
+  - first:
+      213: 1914631626199324124
+    second: blood moon sprite Opacity low_64
+  - first:
+      213: 1369350046777942228
+    second: blood moon sprite Opacity low_65
+  - first:
+      213: 8978193225716649249
+    second: blood moon sprite Opacity low_66
+  - first:
+      213: 6229076103306902849
+    second: blood moon sprite Opacity low_67
+  - first:
+      213: 6955439939127384499
+    second: blood moon sprite Opacity low_68
+  - first:
+      213: -1195672351305990347
+    second: blood moon sprite Opacity low_69
+  - first:
+      213: 2697756298743066719
+    second: blood moon sprite Opacity low_70
+  - first:
+      213: 9080422067788230673
+    second: blood moon sprite Opacity low_71
+  - first:
+      213: 2365004704676775754
+    second: blood moon sprite Opacity low_72
+  - first:
+      213: 6083522236711469727
+    second: blood moon sprite Opacity low_73
+  - first:
+      213: 6041560422838515672
+    second: blood moon sprite Opacity low_74
+  - first:
+      213: 3798521738351042279
+    second: blood moon sprite Opacity low_75
+  - first:
+      213: -7681776122105289154
+    second: blood moon sprite Opacity low_76
+  - first:
+      213: 4481870181951646646
+    second: blood moon sprite Opacity low_77
+  - first:
+      213: 4804244372627359177
+    second: blood moon sprite Opacity low_78
+  - first:
+      213: -6718226084906948709
+    second: blood moon sprite Opacity low_79
+  - first:
+      213: 6763613989752518658
+    second: blood moon sprite Opacity low_80
+  - first:
+      213: -4057313052843651568
+    second: blood moon sprite Opacity low_81
+  - first:
+      213: 384858354281603462
+    second: blood moon sprite Opacity low_82
+  - first:
+      213: 2192349397084223705
+    second: blood moon sprite Opacity low_83
+  - first:
+      213: 280183642396473602
+    second: blood moon sprite Opacity low_84
+  - first:
+      213: -6005772422301420531
+    second: blood moon sprite Opacity low_85
+  - first:
+      213: 1432504589613769565
+    second: blood moon sprite Opacity low_86
+  - first:
+      213: -5150458185114950361
+    second: blood moon sprite Opacity low_87
+  - first:
+      213: -1585222601194261840
+    second: blood moon sprite Opacity low_88
+  - first:
+      213: 2540068890365451288
+    second: blood moon sprite Opacity low_89
+  - first:
+      213: -2139550052119436741
+    second: blood moon sprite Opacity low_90
+  - first:
+      213: 5515568046250625345
+    second: blood moon sprite Opacity low_91
+  - first:
+      213: -370349737697600181
+    second: blood moon sprite Opacity low_92
+  - first:
+      213: -7111256113912050277
+    second: blood moon sprite Opacity low_93
+  - first:
+      213: 1358040861804402218
+    second: blood moon sprite Opacity low_94
+  - first:
+      213: -2380397320395196983
+    second: blood moon sprite Opacity low_95
+  - first:
+      213: 8661885140362129037
+    second: blood moon sprite Opacity low_96
+  - first:
+      213: -853217391988196478
+    second: blood moon sprite Opacity low_97
+  - first:
+      213: 804045459070682714
+    second: blood moon sprite Opacity low_98
+  - first:
+      213: 768054290344011588
+    second: blood moon sprite Opacity low_99
+  - first:
+      213: 653451863467467375
+    second: blood moon sprite Opacity low_100
+  - first:
+      213: -7625397586979388442
+    second: blood moon sprite Opacity low_101
+  - first:
+      213: -3863847290288285269
+    second: blood moon sprite Opacity low_102
+  - first:
+      213: -154344506801803113
+    second: blood moon sprite Opacity low_103
+  - first:
+      213: 636263744101834064
+    second: blood moon sprite Opacity low_104
+  - first:
+      213: -2238499745675764086
+    second: blood moon sprite Opacity low_105
+  - first:
+      213: 9103245256442497330
+    second: blood moon sprite Opacity low_106
+  - first:
+      213: -3679841809123948847
+    second: blood moon sprite Opacity low_107
+  - first:
+      213: -3352972477992830453
+    second: blood moon sprite Opacity low_108
+  - first:
+      213: -2318355008999359826
+    second: blood moon sprite Opacity low_109
+  - first:
+      213: 7883306474396604505
+    second: blood moon sprite Opacity low_110
+  - first:
+      213: -3059174845907892960
+    second: blood moon sprite Opacity low_111
+  - first:
+      213: -5493518069414795947
+    second: blood moon sprite Opacity low_112
+  - first:
+      213: -5943235458346704047
+    second: blood moon sprite Opacity low_113
+  - first:
+      213: -3779694449718080165
+    second: blood moon sprite Opacity low_114
+  - first:
+      213: -5923292133434716840
+    second: blood moon sprite Opacity low_115
+  - first:
+      213: 6578719287440561960
+    second: blood moon sprite Opacity low_116
+  - first:
+      213: 325752898412266937
+    second: blood moon sprite Opacity low_117
+  - first:
+      213: 5941843277037405644
+    second: blood moon sprite Opacity low_118
+  - first:
+      213: -2089318803266722364
+    second: blood moon sprite Opacity low_119
+  - first:
+      213: -7801776316775948930
+    second: blood moon sprite Opacity low_120
+  - first:
+      213: -8447470711396307323
+    second: blood moon sprite Opacity low_121
+  - first:
+      213: 5815531975473282460
+    second: blood moon sprite Opacity low_122
+  - first:
+      213: 8246697273766148185
+    second: blood moon sprite Opacity low_123
+  - first:
+      213: -2717773672036189075
+    second: blood moon sprite Opacity low_124
+  - first:
+      213: 7358873864804246926
+    second: blood moon sprite Opacity low_125
+  - first:
+      213: -2482430490847300089
+    second: blood moon sprite Opacity low_126
+  - first:
+      213: 9045832702401398325
+    second: blood moon sprite Opacity low_127
+  - first:
+      213: -4350060910315069832
+    second: blood moon sprite Opacity low_128
+  - first:
+      213: 7101458637902047122
+    second: blood moon sprite Opacity low_129
+  - first:
+      213: 6520904205655685052
+    second: blood moon sprite Opacity low_130
+  - first:
+      213: 7245081483185452226
+    second: blood moon sprite Opacity low_131
+  - first:
+      213: -1561138138088986094
+    second: blood moon sprite Opacity low_132
+  - first:
+      213: -4275980217055690157
+    second: blood moon sprite Opacity low_133
+  - first:
+      213: 5625482692226062171
+    second: blood moon sprite Opacity low_134
+  - first:
+      213: 7636510171327252923
+    second: blood moon sprite Opacity low_135
+  - first:
+      213: -6737894300966233312
+    second: blood moon sprite Opacity low_136
+  - first:
+      213: 496116557439593657
+    second: blood moon sprite Opacity low_137
+  - first:
+      213: -348373406213365980
+    second: blood moon sprite Opacity low_138
+  - first:
+      213: -5413028269890329565
+    second: blood moon sprite Opacity low_139
+  - first:
+      213: -5134623964445757933
+    second: blood moon sprite Opacity low_140
+  - first:
+      213: 4079634802982460777
+    second: blood moon sprite Opacity low_141
+  - first:
+      213: -6070999680943328894
+    second: blood moon sprite Opacity low_142
+  - first:
+      213: 3167403631676525162
+    second: blood moon sprite Opacity low_143
+  - first:
+      213: -3611231198630887131
+    second: blood moon sprite Opacity low_144
+  - first:
+      213: 368218327256777764
+    second: blood moon sprite Opacity low_145
+  - first:
+      213: 8365708885168218856
+    second: blood moon sprite Opacity low_146
+  - first:
+      213: 7763435914235487770
+    second: blood moon sprite Opacity low_147
+  - first:
+      213: 6533551265452238528
+    second: blood moon sprite Opacity low_148
+  - first:
+      213: -765129199949516546
+    second: blood moon sprite Opacity low_149
+  - first:
+      213: -7723699867183048464
+    second: blood moon sprite Opacity low_150
+  - first:
+      213: 2331852595647148852
+    second: blood moon sprite Opacity low_151
+  - first:
+      213: 4830845208856460122
+    second: blood moon sprite Opacity low_152
+  - first:
+      213: -4879433765148522431
+    second: blood moon sprite Opacity low_153
+  - first:
+      213: 6440438348459740075
+    second: blood moon sprite Opacity low_154
+  - first:
+      213: -216749695453324266
+    second: blood moon sprite Opacity low_155
+  - first:
+      213: 7497103935493319579
+    second: blood moon sprite Opacity low_156
+  - first:
+      213: 3032096117949693399
+    second: blood moon sprite Opacity low_157
+  - first:
+      213: -6874805444037339244
+    second: blood moon sprite Opacity low_158
+  - first:
+      213: -4072970464956380093
+    second: blood moon sprite Opacity low_159
+  - first:
+      213: 2705583432916166711
+    second: blood moon sprite Opacity low_160
+  - first:
+      213: 6613241251180392267
+    second: blood moon sprite Opacity low_161
+  - first:
+      213: -3581709615398713163
+    second: blood moon sprite Opacity low_162
+  - first:
+      213: -5382437553711305806
+    second: blood moon sprite Opacity low_163
+  - first:
+      213: -2150021392057413385
+    second: blood moon sprite Opacity low_164
+  - first:
+      213: -2927925665018299312
+    second: blood moon sprite Opacity low_165
+  - first:
+      213: 7211303303341461848
+    second: blood moon sprite Opacity low_166
+  - first:
+      213: 7120443478201608874
+    second: blood moon sprite Opacity low_167
+  - first:
+      213: -8741415327326371434
+    second: blood moon sprite Opacity low_168
+  - first:
+      213: 4535265293567228518
+    second: blood moon sprite Opacity low_169
+  - first:
+      213: 4897590502109292555
+    second: blood moon sprite Opacity low_170
+  - first:
+      213: 6191973723676999518
+    second: blood moon sprite Opacity low_171
+  - first:
+      213: -629620624956107782
+    second: blood moon sprite Opacity low_172
+  - first:
+      213: 1031547192216076097
+    second: blood moon sprite Opacity low_173
+  - first:
+      213: 6414190323431141766
+    second: blood moon sprite Opacity low_174
+  - first:
+      213: -6922431580464952177
+    second: blood moon sprite Opacity low_175
+  - first:
+      213: 1712093849168951079
+    second: blood moon sprite Opacity low_176
+  - first:
+      213: 5488569950374021644
+    second: blood moon sprite Opacity low_177
+  - first:
+      213: -8421303737796364832
+    second: blood moon sprite Opacity low_178
+  - first:
+      213: -7705720031392438392
+    second: blood moon sprite Opacity low_179
+  - first:
+      213: -2817830873319218304
+    second: blood moon sprite Opacity low_180
+  - first:
+      213: 4123692693861325089
+    second: blood moon sprite Opacity low_181
+  - first:
+      213: 5043514322096574398
+    second: blood moon sprite Opacity low_182
+  - first:
+      213: -4908564869965728980
+    second: blood moon sprite Opacity low_183
+  - first:
+      213: 936425426363375950
+    second: blood moon sprite Opacity low_184
+  - first:
+      213: -85729902858778502
+    second: blood moon sprite Opacity low_185
+  - first:
+      213: -1159317152638112316
+    second: blood moon sprite Opacity low_186
+  - first:
+      213: -8025222500943775647
+    second: blood moon sprite Opacity low_187
+  - first:
+      213: -7136258436162213436
+    second: blood moon sprite Opacity low_188
+  - first:
+      213: -6395942336288771252
+    second: blood moon sprite Opacity low_189
+  - first:
+      213: -1679536035489433451
+    second: blood moon sprite Opacity low_190
+  - first:
+      213: 3059988496731637124
+    second: blood moon sprite Opacity low_191
+  - first:
+      213: 8019137424030531077
+    second: blood moon sprite Opacity low_192
+  - first:
+      213: -946024152369137661
+    second: blood moon sprite Opacity low_193
+  - first:
+      213: -6613294643223521280
+    second: blood moon sprite Opacity low_194
+  - first:
+      213: 5585451727524261091
+    second: blood moon sprite Opacity low_195
+  - first:
+      213: 1585244674575840033
+    second: blood moon sprite Opacity low_196
+  - first:
+      213: 1178007972803580173
+    second: blood moon sprite Opacity low_197
+  - first:
+      213: 7217731991832080336
+    second: blood moon sprite Opacity low_198
+  - first:
+      213: 7714955277497562855
+    second: blood moon sprite Opacity low_199
+  - first:
+      213: 475198667748772983
+    second: blood moon sprite Opacity low_200
+  - first:
+      213: 3824290400718838959
+    second: blood moon sprite Opacity low_201
+  - first:
+      213: 4635152834812171947
+    second: blood moon sprite Opacity low_202
+  - first:
+      213: 3420133609659377535
+    second: blood moon sprite Opacity low_203
+  - first:
+      213: -3186941509392479276
+    second: blood moon sprite Opacity low_204
+  - first:
+      213: 1827151408277015117
+    second: blood moon sprite Opacity low_205
+  - first:
+      213: -7680858417573229310
+    second: blood moon sprite Opacity low_206
+  - first:
+      213: -557572926003854146
+    second: blood moon sprite Opacity low_207
+  - first:
+      213: 7215677345341727927
+    second: blood moon sprite Opacity low_208
+  - first:
+      213: 8949950157709818809
+    second: blood moon sprite Opacity low_209
+  - first:
+      213: -7962025859372047917
+    second: blood moon sprite Opacity low_210
+  - first:
+      213: -336587645558581249
+    second: blood moon sprite Opacity low_211
+  - first:
+      213: 327242515211662291
+    second: blood moon sprite Opacity low_212
+  - first:
+      213: 7303309017922640853
+    second: blood moon sprite Opacity low_213
+  - first:
+      213: -9085321975497288428
+    second: blood moon sprite Opacity low_214
+  - first:
+      213: -4879986261171372773
+    second: blood moon sprite Opacity low_215
+  - first:
+      213: 6519538780761026814
+    second: blood moon sprite Opacity low_216
+  - first:
+      213: -1012628117320448997
+    second: blood moon sprite Opacity low_217
+  - first:
+      213: -3600530179502360806
+    second: blood moon sprite Opacity low_218
+  - first:
+      213: -4739507408045856939
+    second: blood moon sprite Opacity low_219
+  - first:
+      213: -6091581118901871590
+    second: blood moon sprite Opacity low_220
+  - first:
+      213: -1388411828785395061
+    second: blood moon sprite Opacity low_221
+  - first:
+      213: -3886963364489748163
+    second: blood moon sprite Opacity low_222
+  - first:
+      213: -7272854587110344495
+    second: blood moon sprite Opacity low_223
+  - first:
+      213: -9154701749389803279
+    second: blood moon sprite Opacity low_224
+  - first:
+      213: -8460260294501732107
+    second: blood moon sprite Opacity low_225
+  - first:
+      213: -4206696649578578962
+    second: blood moon sprite Opacity low_226
+  - first:
+      213: -6483079340308337217
+    second: blood moon sprite Opacity low_227
+  - first:
+      213: -3803077410358484072
+    second: blood moon sprite Opacity low_228
+  - first:
+      213: -5593391212496474380
+    second: blood moon sprite Opacity low_229
+  - first:
+      213: -1296264371131539525
+    second: blood moon sprite Opacity low_230
+  - first:
+      213: -3798860873744836626
+    second: blood moon sprite Opacity low_231
+  - first:
+      213: 6687951125427739069
+    second: blood moon sprite Opacity low_232
+  - first:
+      213: 649665740321094020
+    second: blood moon sprite Opacity low_233
+  - first:
+      213: -196493302579195470
+    second: blood moon sprite Opacity low_234
+  - first:
+      213: -8301617058209851507
+    second: blood moon sprite Opacity low_235
+  - first:
+      213: 1492516913678834332
+    second: blood moon sprite Opacity low_236
+  - first:
+      213: -7226751677856398041
+    second: blood moon sprite Opacity low_237
+  - first:
+      213: -4762984865242041866
+    second: blood moon sprite Opacity low_238
+  - first:
+      213: -8359273892742843464
+    second: blood moon sprite Opacity low_239
+  - first:
+      213: 146942347837413936
+    second: blood moon sprite Opacity low_240
+  - first:
+      213: -4476774329932479238
+    second: blood moon sprite Opacity low_241
+  - first:
+      213: -6254674086384094502
+    second: blood moon sprite Opacity low_242
+  - first:
+      213: 6286171098947982119
+    second: blood moon sprite Opacity low_243
+  - first:
+      213: -7573620880459940298
+    second: blood moon sprite Opacity low_244
+  - first:
+      213: 7459543173090801312
+    second: blood moon sprite Opacity low_245
+  - first:
+      213: 8395203885871244331
+    second: blood moon sprite Opacity low_246
+  - first:
+      213: 1394198169371315782
+    second: blood moon sprite Opacity low_247
+  - first:
+      213: 9217172506424870883
+    second: blood moon sprite Opacity low_248
+  - first:
+      213: 16993931433189495
+    second: blood moon sprite Opacity low_249
+  - first:
+      213: 4134723804776046295
+    second: blood moon sprite Opacity low_250
+  - first:
+      213: 5559108872320327904
+    second: blood moon sprite Opacity low_251
+  - first:
+      213: -2987669703529513295
+    second: blood moon sprite Opacity low_252
+  - first:
+      213: -2830481307852003752
+    second: blood moon sprite Opacity low_253
+  - first:
+      213: 6714992809544733851
+    second: blood moon sprite Opacity low_254
+  - first:
+      213: 7163165485280126306
+    second: blood moon sprite Opacity low_255
+  - first:
+      213: 7911230828680555721
+    second: blood moon sprite Opacity low_256
+  - first:
+      213: 7539475389801606968
+    second: blood moon sprite Opacity low_257
+  - first:
+      213: -302677785780578033
+    second: blood moon sprite Opacity low_258
+  - first:
+      213: 6618617958572867594
+    second: blood moon sprite Opacity low_259
+  - first:
+      213: 8647406153659881119
+    second: blood moon sprite Opacity low_260
+  - first:
+      213: 4696990275094637791
+    second: blood moon sprite Opacity low_261
+  - first:
+      213: 3167373671715337978
+    second: blood moon sprite Opacity low_262
+  - first:
+      213: -7509288895781934605
+    second: blood moon sprite Opacity low_263
+  - first:
+      213: 3410207831049603854
+    second: blood moon sprite Opacity low_264
+  - first:
+      213: 1457354156188965880
+    second: blood moon sprite Opacity low_265
+  - first:
+      213: 4799610224294129158
+    second: blood moon sprite Opacity low_266
+  - first:
+      213: -3047727676790928196
+    second: blood moon sprite Opacity low_267
+  - first:
+      213: -7065177042382053659
+    second: blood moon sprite Opacity low_268
+  - first:
+      213: 1342723936600485745
+    second: blood moon sprite Opacity low_269
+  - first:
+      213: 3055481660711487170
+    second: blood moon sprite Opacity low_270
+  - first:
+      213: 3614651593327755384
+    second: blood moon sprite Opacity low_271
+  - first:
+      213: -2601536252919443237
+    second: blood moon sprite Opacity low_272
+  - first:
+      213: -9043953907631626688
+    second: blood moon sprite Opacity low_273
+  - first:
+      213: 5922913114053997980
+    second: blood moon sprite Opacity low_274
+  - first:
+      213: 4126230154403872533
+    second: blood moon sprite Opacity low_275
+  - first:
+      213: -2197588268080707225
+    second: blood moon sprite Opacity low_276
+  - first:
+      213: -5697360866509755129
+    second: blood moon sprite Opacity low_277
+  - first:
+      213: 3992446350711695686
+    second: blood moon sprite Opacity low_278
+  - first:
+      213: 808720688138230345
+    second: blood moon sprite Opacity low_279
+  - first:
+      213: 964418896569282138
+    second: blood moon sprite Opacity low_280
+  - first:
+      213: -3249818123711313852
+    second: blood moon sprite Opacity low_281
+  - first:
+      213: -6208771341609789960
+    second: blood moon sprite Opacity low_282
+  - first:
+      213: -1558578599572663313
+    second: blood moon sprite Opacity low_283
+  - first:
+      213: -4299681024667682947
+    second: blood moon sprite Opacity low_284
+  - first:
+      213: 965822286074585509
+    second: blood moon sprite Opacity low_285
+  - first:
+      213: -5700427584478893651
+    second: blood moon sprite Opacity low_286
+  - first:
+      213: -4345543895524158645
+    second: blood moon sprite Opacity low_287
+  - first:
+      213: 4363399980060620974
+    second: blood moon sprite Opacity low_288
+  - first:
+      213: -5968556004885499860
+    second: blood moon sprite Opacity low_289
+  - first:
+      213: -65093733381048064
+    second: blood moon sprite Opacity low_290
+  - first:
+      213: 6589661347450246581
+    second: blood moon sprite Opacity low_291
+  - first:
+      213: 6249224753551812472
+    second: blood moon sprite Opacity low_292
+  - first:
+      213: 8912569997613381678
+    second: blood moon sprite Opacity low_293
+  - first:
+      213: 7299071028099796421
+    second: blood moon sprite Opacity low_294
+  - first:
+      213: 2024629412861182147
+    second: blood moon sprite Opacity low_295
+  - first:
+      213: -7556566625003471729
+    second: blood moon sprite Opacity low_296
+  - first:
+      213: 5542858946491832426
+    second: blood moon sprite Opacity low_297
+  - first:
+      213: -1962487757263152421
+    second: blood moon sprite Opacity low_298
+  - first:
+      213: 8845683837091670377
+    second: blood moon sprite Opacity low_299
+  - first:
+      213: 7537490853301332566
+    second: blood moon sprite Opacity low_300
+  - first:
+      213: -1845288785978988648
+    second: blood moon sprite Opacity low_301
+  - first:
+      213: 5155031373447869124
+    second: blood moon sprite Opacity low_302
+  - first:
+      213: -2775723804049810311
+    second: blood moon sprite Opacity low_303
+  - first:
+      213: 6823068156528628369
+    second: blood moon sprite Opacity low_304
+  - first:
+      213: -6405722589564864310
+    second: blood moon sprite Opacity low_305
+  - first:
+      213: 723715855196364969
+    second: blood moon sprite Opacity low_306
+  - first:
+      213: -7732533581507179420
+    second: blood moon sprite Opacity low_307
+  - first:
+      213: -1862726859180778761
+    second: blood moon sprite Opacity low_308
+  - first:
+      213: 8062826926685300919
+    second: blood moon sprite Opacity low_309
+  - first:
+      213: 7429169478294324514
+    second: blood moon sprite Opacity low_310
+  - first:
+      213: 116734181711644443
+    second: blood moon sprite Opacity low_311
+  - first:
+      213: -5375277240053613856
+    second: blood moon sprite Opacity low_312
+  - first:
+      213: -8545870051460390412
+    second: blood moon sprite Opacity low_313
+  - first:
+      213: -7461787128581936635
+    second: blood moon sprite Opacity low_314
+  - first:
+      213: -2982441411824511539
+    second: blood moon sprite Opacity low_315
+  - first:
+      213: 5083692412401393306
+    second: blood moon sprite Opacity low_316
+  - first:
+      213: 3860210886807587529
+    second: blood moon sprite Opacity low_317
+  - first:
+      213: -3085072455293758174
+    second: blood moon sprite Opacity low_318
+  - first:
+      213: 7704733875138458254
+    second: blood moon sprite Opacity low_319
+  - first:
+      213: 1420063023584081529
+    second: blood moon sprite Opacity low_320
+  - first:
+      213: -4739828262727101592
+    second: blood moon sprite Opacity low_321
+  - first:
+      213: 4793215259565659945
+    second: blood moon sprite Opacity low_322
+  - first:
+      213: -7041817126965200745
+    second: blood moon sprite Opacity low_323
+  - first:
+      213: -1843817145352487463
+    second: blood moon sprite Opacity low_324
+  - first:
+      213: -4996426927660055896
+    second: blood moon sprite Opacity low_325
+  - first:
+      213: -8850440126153239223
+    second: blood moon sprite Opacity low_326
+  - first:
+      213: -4204716893917865616
+    second: blood moon sprite Opacity low_327
+  - first:
+      213: -2136834197853495945
+    second: blood moon sprite Opacity low_328
+  - first:
+      213: -8541770047703776963
+    second: blood moon sprite Opacity low_329
+  - first:
+      213: -2236737499613670787
+    second: blood moon sprite Opacity low_330
+  - first:
+      213: 8581123885489141160
+    second: blood moon sprite Opacity low_331
+  - first:
+      213: 6137819537005163855
+    second: blood moon sprite Opacity low_332
+  - first:
+      213: 44738263739423189
+    second: blood moon sprite Opacity low_333
+  - first:
+      213: -5292168756627473957
+    second: blood moon sprite Opacity low_334
+  - first:
+      213: -6060056282647987693
+    second: blood moon sprite Opacity low_335
+  - first:
+      213: -5079821347061003336
+    second: blood moon sprite Opacity low_336
+  - first:
+      213: 4174383345462303556
+    second: blood moon sprite Opacity low_337
+  - first:
+      213: -4354556987059952513
+    second: blood moon sprite Opacity low_338
+  - first:
+      213: 5383737461649830599
+    second: blood moon sprite Opacity low_339
+  - first:
+      213: -2475638837683823560
+    second: blood moon sprite Opacity low_340
+  - first:
+      213: 9194714638277476401
+    second: blood moon sprite Opacity low_341
+  - first:
+      213: 4386407951016761442
+    second: blood moon sprite Opacity low_342
+  - first:
+      213: -2837125578027468367
+    second: blood moon sprite Opacity low_343
+  - first:
+      213: -8114032708822329009
+    second: blood moon sprite Opacity low_344
+  - first:
+      213: -1334273914831901243
+    second: blood moon sprite Opacity low_345
+  - first:
+      213: -8420326172226375584
+    second: blood moon sprite Opacity low_346
+  - first:
+      213: 7530195056690891697
+    second: blood moon sprite Opacity low_347
+  - first:
+      213: -1198238920159603081
+    second: blood moon sprite Opacity low_348
+  - first:
+      213: 5716487646058831694
+    second: blood moon sprite Opacity low_349
+  - first:
+      213: -8298503670580493808
+    second: blood moon sprite Opacity low_350
+  - first:
+      213: 7470254029824839755
+    second: blood moon sprite Opacity low_351
+  - first:
+      213: 2240866088716009810
+    second: blood moon sprite Opacity low_352
+  - first:
+      213: -2608156614181328464
+    second: blood moon sprite Opacity low_353
+  - first:
+      213: -591358134229960684
+    second: blood moon sprite Opacity low_354
+  - first:
+      213: 2231375780560383204
+    second: blood moon sprite Opacity low_355
+  - first:
+      213: -3123251033216835053
+    second: blood moon sprite Opacity low_356
+  - first:
+      213: -8019340808634937927
+    second: blood moon sprite Opacity low_357
+  - first:
+      213: 344784677040396255
+    second: blood moon sprite Opacity low_358
+  - first:
+      213: 6900327594804998258
+    second: blood moon sprite Opacity low_359
+  - first:
+      213: 9027373948607311602
+    second: blood moon sprite Opacity low_360
+  - first:
+      213: -1181486967656846356
+    second: blood moon sprite Opacity low_361
+  - first:
+      213: 7518549456952880234
+    second: blood moon sprite Opacity low_362
+  - first:
+      213: 7700660276560281807
+    second: blood moon sprite Opacity low_363
+  - first:
+      213: 6960585463591674857
+    second: blood moon sprite Opacity low_364
+  - first:
+      213: -1323254335351936260
+    second: blood moon sprite Opacity low_365
+  - first:
+      213: 2225637625873294210
+    second: blood moon sprite Opacity low_366
+  - first:
+      213: 141697086558465842
+    second: blood moon sprite Opacity low_367
+  - first:
+      213: -7248735309703833899
+    second: blood moon sprite Opacity low_368
+  - first:
+      213: -5225039237383366967
+    second: blood moon sprite Opacity low_369
+  - first:
+      213: -7644096245984351270
+    second: blood moon sprite Opacity low_370
+  - first:
+      213: 3744842496798195976
+    second: blood moon sprite Opacity low_371
+  - first:
+      213: 4930075003934476653
+    second: blood moon sprite Opacity low_372
+  - first:
+      213: 4523847998884038525
+    second: blood moon sprite Opacity low_373
+  - first:
+      213: -742317750511968449
+    second: blood moon sprite Opacity low_374
+  - first:
+      213: 2125480415035730385
+    second: blood moon sprite Opacity low_375
+  - first:
+      213: -7480385719810838913
+    second: blood moon sprite Opacity low_376
+  - first:
+      213: -3618314415959350758
+    second: blood moon sprite Opacity low_377
+  - first:
+      213: -4328536296492243658
+    second: blood moon sprite Opacity low_378
+  - first:
+      213: 5515017287808881804
+    second: blood moon sprite Opacity low_379
+  - first:
+      213: 4712324175745974018
+    second: blood moon sprite Opacity low_380
+  - first:
+      213: -8854126737177692795
+    second: blood moon sprite Opacity low_381
+  - first:
+      213: 6842961446769644189
+    second: blood moon sprite Opacity low_382
+  - first:
+      213: 7280044854922758837
+    second: blood moon sprite Opacity low_383
+  - first:
+      213: 464868899484037640
+    second: blood moon sprite Opacity low_384
+  - first:
+      213: -9204528550473375228
+    second: blood moon sprite Opacity low_385
+  - first:
+      213: -9082799812793063121
+    second: blood moon sprite Opacity low_386
+  - first:
+      213: 861902205422186800
+    second: blood moon sprite Opacity low_387
+  - first:
+      213: -3274369208936001347
+    second: blood moon sprite Opacity low_388
+  - first:
+      213: -6687991239850838565
+    second: blood moon sprite Opacity low_389
+  - first:
+      213: 518100356594910441
+    second: blood moon sprite Opacity low_390
+  - first:
+      213: 8588771909722239306
+    second: blood moon sprite Opacity low_391
+  - first:
+      213: -5655047366422277380
+    second: blood moon sprite Opacity low_392
+  - first:
+      213: -9097400355724742481
+    second: blood moon sprite Opacity low_393
+  - first:
+      213: -2250333170974169185
+    second: blood moon sprite Opacity low_394
+  - first:
+      213: 6675788570660412641
+    second: blood moon sprite Opacity low_395
+  - first:
+      213: 5946303498036495365
+    second: blood moon sprite Opacity low_396
+  - first:
+      213: -3737441786927708678
+    second: blood moon sprite Opacity low_397
+  - first:
+      213: 7561409865550379951
+    second: blood moon sprite Opacity low_398
+  - first:
+      213: 8967412843982797959
+    second: blood moon sprite Opacity low_399
+  - first:
+      213: -6871504367019784128
+    second: blood moon sprite Opacity low_400
+  - first:
+      213: 254815329667388371
+    second: blood moon sprite Opacity low_401
+  - first:
+      213: 7931619458552135622
+    second: blood moon sprite Opacity low_402
+  - first:
+      213: 241313380084015684
+    second: blood moon sprite Opacity low_403
+  - first:
+      213: -290010569264294855
+    second: blood moon sprite Opacity low_404
+  - first:
+      213: -3638951760603849127
+    second: blood moon sprite Opacity low_405
+  - first:
+      213: -4683086712537342417
+    second: blood moon sprite Opacity low_406
+  - first:
+      213: 5739434971852321272
+    second: blood moon sprite Opacity low_407
+  - first:
+      213: 6274961630069017604
+    second: blood moon sprite Opacity low_408
+  - first:
+      213: -1979356640609526633
+    second: blood moon sprite Opacity low_409
+  - first:
+      213: 610204754635973551
+    second: blood moon sprite Opacity low_410
+  - first:
+      213: 512716257903442303
+    second: blood moon sprite Opacity low_411
+  - first:
+      213: 280868566945200487
+    second: blood moon sprite Opacity low_412
+  - first:
+      213: -16387531079666398
+    second: blood moon sprite Opacity low_413
+  - first:
+      213: 1112111439552293225
+    second: blood moon sprite Opacity low_414
+  - first:
+      213: 7228563016472181801
+    second: blood moon sprite Opacity low_415
+  - first:
+      213: 6186040734071601081
+    second: blood moon sprite Opacity low_416
+  - first:
+      213: -3137570325588515690
+    second: blood moon sprite Opacity low_417
+  - first:
+      213: 3592855169679640200
+    second: blood moon sprite Opacity low_418
+  - first:
+      213: 8902174390606124233
+    second: blood moon sprite Opacity low_419
+  - first:
+      213: 168522873023968248
+    second: blood moon sprite Opacity low_420
+  - first:
+      213: 634992451854854694
+    second: blood moon sprite Opacity low_421
+  - first:
+      213: -7982703896307846110
+    second: blood moon sprite Opacity low_422
+  - first:
+      213: 1034830901840451197
+    second: blood moon sprite Opacity low_423
+  - first:
+      213: -411674374806795872
+    second: blood moon sprite Opacity low_424
+  - first:
+      213: 2533746218922781317
+    second: blood moon sprite Opacity low_425
+  - first:
+      213: -5055148001054972111
+    second: blood moon sprite Opacity low_426
+  - first:
+      213: 7927262064685718370
+    second: blood moon sprite Opacity low_427
+  - first:
+      213: 1667472033168228040
+    second: blood moon sprite Opacity low_428
+  - first:
+      213: -164420690721469802
+    second: blood moon sprite Opacity low_429
+  - first:
+      213: -2622357590771649571
+    second: blood moon sprite Opacity low_430
+  - first:
+      213: -1819842256821588134
+    second: blood moon sprite Opacity low_431
+  - first:
+      213: -7065428056688190507
+    second: blood moon sprite Opacity low_432
+  - first:
+      213: 4925019453762735217
+    second: blood moon sprite Opacity low_433
+  - first:
+      213: 4075375405929770134
+    second: blood moon sprite Opacity low_434
+  - first:
+      213: -6517517969389511348
+    second: blood moon sprite Opacity low_435
+  - first:
+      213: 7623406419776879551
+    second: blood moon sprite Opacity low_436
+  - first:
+      213: 1946204474991875032
+    second: blood moon sprite Opacity low_437
+  - first:
+      213: -6939957347817693751
+    second: blood moon sprite Opacity low_438
+  - first:
+      213: 1354304383853239819
+    second: blood moon sprite Opacity low_439
+  - first:
+      213: 4653031102639263250
+    second: blood moon sprite Opacity low_440
+  - first:
+      213: 1753002981031847878
+    second: blood moon sprite Opacity low_441
+  - first:
+      213: 9123538153591394733
+    second: blood moon sprite Opacity low_442
+  - first:
+      213: 2711502080852770785
+    second: blood moon sprite Opacity low_443
+  - first:
+      213: 7023789735146892507
+    second: blood moon sprite Opacity low_444
+  - first:
+      213: 4479751407696473421
+    second: blood moon sprite Opacity low_445
+  - first:
+      213: -3219716719442315246
+    second: blood moon sprite Opacity low_446
+  - first:
+      213: -3996868462984369500
+    second: blood moon sprite Opacity low_447
+  - first:
+      213: 2450389142523800949
+    second: blood moon sprite Opacity low_448
+  - first:
+      213: 439221852201627392
+    second: blood moon sprite Opacity low_449
+  - first:
+      213: 3131354135086627146
+    second: blood moon sprite Opacity low_450
+  - first:
+      213: 2663586781560311958
+    second: blood moon sprite Opacity low_451
+  - first:
+      213: 6332065513701589899
+    second: blood moon sprite Opacity low_452
+  - first:
+      213: -1333068715682660816
+    second: blood moon sprite Opacity low_453
+  - first:
+      213: 641575202862252738
+    second: blood moon sprite Opacity low_454
+  - first:
+      213: -742616067195241352
+    second: blood moon sprite Opacity low_455
+  - first:
+      213: -4596562728575462719
+    second: blood moon sprite Opacity low_456
+  - first:
+      213: 2157558913551110036
+    second: blood moon sprite Opacity low_457
+  - first:
+      213: 5351587175983143461
+    second: blood moon sprite Opacity low_458
+  - first:
+      213: -466462569540432311
+    second: blood moon sprite Opacity low_459
+  - first:
+      213: 9034225916393014702
+    second: blood moon sprite Opacity low_460
+  - first:
+      213: -4534432031033094104
+    second: blood moon sprite Opacity low_461
+  - first:
+      213: -5856539253014697723
+    second: blood moon sprite Opacity low_462
+  - first:
+      213: 3214860044489735657
+    second: blood moon sprite Opacity low_463
+  - first:
+      213: 4334767510092201616
+    second: blood moon sprite Opacity low_464
+  - first:
+      213: 2204794483561541162
+    second: blood moon sprite Opacity low_465
+  - first:
+      213: -5113734773724813149
+    second: blood moon sprite Opacity low_466
+  - first:
+      213: -4590389044413579006
+    second: blood moon sprite Opacity low_467
+  - first:
+      213: 5681625865855901426
+    second: blood moon sprite Opacity low_468
+  - first:
+      213: 5438998088412394571
+    second: blood moon sprite Opacity low_469
+  - first:
+      213: 202138885495880485
+    second: blood moon sprite Opacity low_470
+  - first:
+      213: -3065778156118604929
+    second: blood moon sprite Opacity low_471
+  - first:
+      213: -1180607234055164481
+    second: blood moon sprite Opacity low_472
+  - first:
+      213: 339771378506069254
+    second: blood moon sprite Opacity low_473
+  - first:
+      213: 7626655714822354796
+    second: blood moon sprite Opacity low_474
+  - first:
+      213: -8624237929207949548
+    second: blood moon sprite Opacity low_475
+  - first:
+      213: -1870884222345131933
+    second: blood moon sprite Opacity low_476
+  - first:
+      213: 5711305448999460769
+    second: blood moon sprite Opacity low_477
+  - first:
+      213: -554245180942915183
+    second: blood moon sprite Opacity low_478
+  - first:
+      213: 2944300747283372719
+    second: blood moon sprite Opacity low_479
+  - first:
+      213: 155148758470444790
+    second: blood moon sprite Opacity low_480
+  - first:
+      213: -2715568962400742738
+    second: blood moon sprite Opacity low_481
+  - first:
+      213: -3438822745679188901
+    second: blood moon sprite Opacity low_482
+  - first:
+      213: -3573677742092293730
+    second: blood moon sprite Opacity low_483
+  - first:
+      213: -8405551106019362681
+    second: blood moon sprite Opacity low_484
+  - first:
+      213: -5887229142214188830
+    second: blood moon sprite Opacity low_485
+  - first:
+      213: 567823954886680375
+    second: blood moon sprite Opacity low_486
+  - first:
+      213: 3291568545889213735
+    second: blood moon sprite Opacity low_487
+  - first:
+      213: 2916467844798220202
+    second: blood moon sprite Opacity low_488
+  - first:
+      213: 198555717284367748
+    second: blood moon sprite Opacity low_489
+  - first:
+      213: 8031916162697508150
+    second: blood moon sprite Opacity low_490
+  - first:
+      213: -7705464066082176583
+    second: blood moon sprite Opacity low_491
+  - first:
+      213: 8951699916211569988
+    second: blood moon sprite Opacity low_492
+  - first:
+      213: -4099183670030066657
+    second: blood moon sprite Opacity low_493
+  - first:
+      213: -3822541347866674810
+    second: blood moon sprite Opacity low_494
+  - first:
+      213: 1508816206215989132
+    second: blood moon sprite Opacity low_495
+  - first:
+      213: 2275340598498328463
+    second: blood moon sprite Opacity low_496
+  - first:
+      213: -7058649812967219355
+    second: blood moon sprite Opacity low_497
+  - first:
+      213: -7904025434198513818
+    second: blood moon sprite Opacity low_498
+  - first:
+      213: 7086718458122591730
+    second: blood moon sprite Opacity low_499
+  - first:
+      213: -5821935734329685743
+    second: blood moon sprite Opacity low_500
+  - first:
+      213: 804766131800025295
+    second: blood moon sprite Opacity low_501
+  - first:
+      213: 4900602457523638921
+    second: blood moon sprite Opacity low_502
+  - first:
+      213: -4656650201942777003
+    second: blood moon sprite Opacity low_503
+  - first:
+      213: -6113579401903346068
+    second: blood moon sprite Opacity low_504
+  - first:
+      213: 461731263744897006
+    second: blood moon sprite Opacity low_505
+  - first:
+      213: -1557240219313228227
+    second: blood moon sprite Opacity low_506
+  - first:
+      213: 4938701510390871749
+    second: blood moon sprite Opacity low_507
+  - first:
+      213: 3312145141085856339
+    second: blood moon sprite Opacity low_508
+  - first:
+      213: 374589542352773000
+    second: blood moon sprite Opacity low_509
+  - first:
+      213: -1679059231246642397
+    second: blood moon sprite Opacity low_510
+  - first:
+      213: -508272010078460161
+    second: blood moon sprite Opacity low_511
+  - first:
+      213: 4851905820565895765
+    second: blood moon sprite Opacity low_512
+  - first:
+      213: -7438113101701778153
+    second: blood moon sprite Opacity low_513
+  - first:
+      213: 2976870594793134458
+    second: blood moon sprite Opacity low_514
+  - first:
+      213: 6995647579561032928
+    second: blood moon sprite Opacity low_515
+  - first:
+      213: -2188131414323125382
+    second: blood moon sprite Opacity low_516
+  - first:
+      213: 4590477588058753396
+    second: blood moon sprite Opacity low_517
+  - first:
+      213: 3021045079741972883
+    second: blood moon sprite Opacity low_518
+  - first:
+      213: -653752587510339214
+    second: blood moon sprite Opacity low_519
+  - first:
+      213: 7138711014010184344
+    second: blood moon sprite Opacity low_520
+  - first:
+      213: 2939624434524947897
+    second: blood moon sprite Opacity low_521
+  - first:
+      213: 5017718665350390819
+    second: blood moon sprite Opacity low_522
+  - first:
+      213: -8686481990125673766
+    second: blood moon sprite Opacity low_523
+  - first:
+      213: -11433873767983041
+    second: blood moon sprite Opacity low_524
+  - first:
+      213: -3575445314982396177
+    second: blood moon sprite Opacity low_525
+  - first:
+      213: -7026763012564475027
+    second: blood moon sprite Opacity low_526
+  - first:
+      213: -892633144188477268
+    second: blood moon sprite Opacity low_527
+  - first:
+      213: 5441466279189545476
+    second: blood moon sprite Opacity low_528
+  - first:
+      213: 1999598102780652172
+    second: blood moon sprite Opacity low_529
+  - first:
+      213: -1274097042373885552
+    second: blood moon sprite Opacity low_530
+  - first:
+      213: 8125083383454853969
+    second: blood moon sprite Opacity low_531
+  - first:
+      213: 4138735042888984772
+    second: blood moon sprite Opacity low_532
+  - first:
+      213: -6952810605073927974
+    second: blood moon sprite Opacity low_533
+  - first:
+      213: 3570501840359633990
+    second: blood moon sprite Opacity low_534
+  - first:
+      213: -1660173869331663789
+    second: blood moon sprite Opacity low_535
+  - first:
+      213: 2462487518430489414
+    second: blood moon sprite Opacity low_536
+  - first:
+      213: -5099067382737205714
+    second: blood moon sprite Opacity low_537
+  - first:
+      213: 7963165144144220657
+    second: blood moon sprite Opacity low_538
+  - first:
+      213: 1058236550763072001
+    second: blood moon sprite Opacity low_539
+  - first:
+      213: 7923175066456081146
+    second: blood moon sprite Opacity low_540
+  - first:
+      213: 7622739980446042933
+    second: blood moon sprite Opacity low_541
+  - first:
+      213: 88548937401483127
+    second: blood moon sprite Opacity low_542
+  - first:
+      213: 6541712184248433563
+    second: blood moon sprite Opacity low_543
+  - first:
+      213: 7793872035215597243
+    second: blood moon sprite Opacity low_544
+  - first:
+      213: -2475249962644435255
+    second: blood moon sprite Opacity low_545
+  - first:
+      213: 230291450170788758
+    second: blood moon sprite Opacity low_546
+  - first:
+      213: -3935226034106061819
+    second: blood moon sprite Opacity low_547
+  - first:
+      213: 8142172198707089143
+    second: blood moon sprite Opacity low_548
+  - first:
+      213: 6099530386807478999
+    second: blood moon sprite Opacity low_549
+  - first:
+      213: 147362997487130191
+    second: blood moon sprite Opacity low_550
+  - first:
+      213: -6034312538194568516
+    second: blood moon sprite Opacity low_551
+  - first:
+      213: -2738782243301499812
+    second: blood moon sprite Opacity low_552
+  - first:
+      213: -4417039569999375888
+    second: blood moon sprite Opacity low_553
+  - first:
+      213: 2003502396420746412
+    second: blood moon sprite Opacity low_554
+  - first:
+      213: -6851462965896785512
+    second: blood moon sprite Opacity low_555
+  - first:
+      213: 3938934038105024087
+    second: blood moon sprite Opacity low_556
+  - first:
+      213: -9168013662414258807
+    second: blood moon sprite Opacity low_557
+  - first:
+      213: 4364859836380450370
+    second: blood moon sprite Opacity low_558
+  - first:
+      213: -5400331131272640098
+    second: blood moon sprite Opacity low_559
+  - first:
+      213: 397674889393253063
+    second: blood moon sprite Opacity low_560
+  - first:
+      213: -5264505092829309265
+    second: blood moon sprite Opacity low_561
+  - first:
+      213: -3512296237838578444
+    second: blood moon sprite Opacity low_562
+  - first:
+      213: -3558351216609761233
+    second: blood moon sprite Opacity low_563
+  - first:
+      213: -5752130183308728815
+    second: blood moon sprite Opacity low_564
+  - first:
+      213: 6701771114586940430
+    second: blood moon sprite Opacity low_565
+  - first:
+      213: 6501161826562056165
+    second: blood moon sprite Opacity low_566
+  - first:
+      213: 7262195081570071590
+    second: blood moon sprite Opacity low_567
+  - first:
+      213: 6915085961642676416
+    second: blood moon sprite Opacity low_568
+  - first:
+      213: -6879903989871166402
+    second: blood moon sprite Opacity low_569
+  - first:
+      213: 6194019946567128789
+    second: blood moon sprite Opacity low_570
+  - first:
+      213: 4127099614496305350
+    second: blood moon sprite Opacity low_571
+  - first:
+      213: 1497012023629166068
+    second: blood moon sprite Opacity low_572
+  - first:
+      213: -5126480048257026098
+    second: blood moon sprite Opacity low_573
+  - first:
+      213: -8000476931535997498
+    second: blood moon sprite Opacity low_574
+  - first:
+      213: -8592939806044384200
+    second: blood moon sprite Opacity low_575
+  - first:
+      213: 2693176725953467620
+    second: blood moon sprite Opacity low_576
+  - first:
+      213: -784838258755216832
+    second: blood moon sprite Opacity low_577
+  - first:
+      213: 5056631521900872805
+    second: blood moon sprite Opacity low_578
+  - first:
+      213: -2822997576331183806
+    second: blood moon sprite Opacity low_579
+  - first:
+      213: 8249268033540301981
+    second: blood moon sprite Opacity low_580
+  - first:
+      213: 6777228847876496041
+    second: blood moon sprite Opacity low_581
+  - first:
+      213: -4420626037237472804
+    second: blood moon sprite Opacity low_582
+  - first:
+      213: 4760989783839536060
+    second: blood moon sprite Opacity low_583
+  - first:
+      213: 2561777151441568045
+    second: blood moon sprite Opacity low_584
+  - first:
+      213: -7256816959172202944
+    second: blood moon sprite Opacity low_585
+  - first:
+      213: -1530617905915707937
+    second: blood moon sprite Opacity low_586
+  - first:
+      213: -469236935964969914
+    second: blood moon sprite Opacity low_587
+  - first:
+      213: 4504534488191261818
+    second: blood moon sprite Opacity low_588
+  - first:
+      213: 6513032203248370014
+    second: blood moon sprite Opacity low_589
+  - first:
+      213: -3150110860156669806
+    second: blood moon sprite Opacity low_590
+  - first:
+      213: 882772772009026041
+    second: blood moon sprite Opacity low_591
+  - first:
+      213: -7067723982157912544
+    second: blood moon sprite Opacity low_592
+  - first:
+      213: 8525819529886757235
+    second: blood moon sprite Opacity low_593
+  - first:
+      213: 1172197804299945584
+    second: blood moon sprite Opacity low_594
+  - first:
+      213: 3669478287595947258
+    second: blood moon sprite Opacity low_595
+  - first:
+      213: 6824013381713383665
+    second: blood moon sprite Opacity low_596
+  - first:
+      213: -215868851491638329
+    second: blood moon sprite Opacity low_597
+  - first:
+      213: -2593986250420195454
+    second: blood moon sprite Opacity low_598
+  - first:
+      213: -1375325918666706806
+    second: blood moon sprite Opacity low_599
+  - first:
+      213: 732615631416860409
+    second: blood moon sprite Opacity low_600
+  - first:
+      213: -8925425067898966966
+    second: blood moon sprite Opacity low_601
+  - first:
+      213: -3835633087356918088
+    second: blood moon sprite Opacity low_602
+  - first:
+      213: -5660402144452318219
+    second: blood moon sprite Opacity low_603
+  - first:
+      213: -8245298028728949026
+    second: blood moon sprite Opacity low_604
+  - first:
+      213: -6123042044624386654
+    second: blood moon sprite Opacity low_605
+  - first:
+      213: -7108044885540579396
+    second: blood moon sprite Opacity low_606
+  - first:
+      213: -5878674970002888401
+    second: blood moon sprite Opacity low_607
+  - first:
+      213: -6244958988516029401
+    second: blood moon sprite Opacity low_608
+  - first:
+      213: 5271114049514919275
+    second: blood moon sprite Opacity low_609
+  - first:
+      213: 7085389702370317009
+    second: blood moon sprite Opacity low_610
+  - first:
+      213: -4916895961691812403
+    second: blood moon sprite Opacity low_611
+  - first:
+      213: -3447674109597772507
+    second: blood moon sprite Opacity low_612
+  - first:
+      213: -6780238925125199783
+    second: blood moon sprite Opacity low_613
+  - first:
+      213: 7011795449774584483
+    second: blood moon sprite Opacity low_614
+  - first:
+      213: -5965678103215111260
+    second: blood moon sprite Opacity low_615
+  - first:
+      213: 6516665389906230805
+    second: blood moon sprite Opacity low_616
+  - first:
+      213: 8990262714457890617
+    second: blood moon sprite Opacity low_617
+  - first:
+      213: 4171653885136865493
+    second: blood moon sprite Opacity low_618
+  - first:
+      213: -2552872549430663123
+    second: blood moon sprite Opacity low_619
+  - first:
+      213: 764895669500334585
+    second: blood moon sprite Opacity low_620
+  - first:
+      213: -9218328982394624281
+    second: blood moon sprite Opacity low_621
+  - first:
+      213: -4703018091564350771
+    second: blood moon sprite Opacity low_622
+  - first:
+      213: 7370106845508986657
+    second: blood moon sprite Opacity low_623
+  - first:
+      213: -6821960247020329600
+    second: blood moon sprite Opacity low_624
+  - first:
+      213: -8514397494532182891
+    second: blood moon sprite Opacity low_625
+  - first:
+      213: 367570315878697521
+    second: blood moon sprite Opacity low_626
+  - first:
+      213: 3532694153652360103
+    second: blood moon sprite Opacity low_627
+  - first:
+      213: 2210061891450247179
+    second: blood moon sprite Opacity low_628
+  - first:
+      213: -4902438709349722949
+    second: blood moon sprite Opacity low_629
+  - first:
+      213: -2023078942966726646
+    second: blood moon sprite Opacity low_630
+  - first:
+      213: 2792347003970242098
+    second: blood moon sprite Opacity low_631
+  - first:
+      213: 9123068543420938922
+    second: blood moon sprite Opacity low_632
+  - first:
+      213: 2667448030899290377
+    second: blood moon sprite Opacity low_633
+  - first:
+      213: 4680279112367907382
+    second: blood moon sprite Opacity low_634
+  - first:
+      213: -8851349194192170018
+    second: blood moon sprite Opacity low_635
+  - first:
+      213: -3207983614453580983
+    second: blood moon sprite Opacity low_636
+  - first:
+      213: 8423820155814790643
+    second: blood moon sprite Opacity low_637
+  - first:
+      213: -5661820524897710405
+    second: blood moon sprite Opacity low_638
+  - first:
+      213: 7289954724780654108
+    second: blood moon sprite Opacity low_639
+  - first:
+      213: -7396462463892726517
+    second: blood moon sprite Opacity low_640
+  - first:
+      213: 2718201442846214914
+    second: blood moon sprite Opacity low_641
+  - first:
+      213: 7740424972577112157
+    second: blood moon sprite Opacity low_642
+  - first:
+      213: 3089222032561999118
+    second: blood moon sprite Opacity low_643
+  - first:
+      213: 8699241002133681037
+    second: blood moon sprite Opacity low_644
+  - first:
+      213: -4447714731128813028
+    second: blood moon sprite Opacity low_645
+  - first:
+      213: 7976661496451723067
+    second: blood moon sprite Opacity low_646
+  - first:
+      213: 2689650727025658720
+    second: blood moon sprite Opacity low_647
+  - first:
+      213: -5185496058052443234
+    second: blood moon sprite Opacity low_648
+  - first:
+      213: -7591570253638269527
+    second: blood moon sprite Opacity low_649
+  - first:
+      213: -316733095791117400
+    second: blood moon sprite Opacity low_650
+  - first:
+      213: 3726513644115691893
+    second: blood moon sprite Opacity low_651
+  - first:
+      213: 6814674359141882315
+    second: blood moon sprite Opacity low_652
+  - first:
+      213: 1871692186457005396
+    second: blood moon sprite Opacity low_653
+  - first:
+      213: 8346520901174361043
+    second: blood moon sprite Opacity low_654
+  - first:
+      213: 1123625318595715685
+    second: blood moon sprite Opacity low_655
+  - first:
+      213: -3370284990898650660
+    second: blood moon sprite Opacity low_656
+  - first:
+      213: 320482429568214815
+    second: blood moon sprite Opacity low_657
+  - first:
+      213: 327717758777243115
+    second: blood moon sprite Opacity low_658
+  - first:
+      213: 7040465111104181301
+    second: blood moon sprite Opacity low_659
+  - first:
+      213: -55327920393226206
+    second: blood moon sprite Opacity low_660
+  - first:
+      213: 8158081617377682351
+    second: blood moon sprite Opacity low_661
+  - first:
+      213: -480989506737869294
+    second: blood moon sprite Opacity low_662
+  - first:
+      213: 7922229469639350556
+    second: blood moon sprite Opacity low_663
+  - first:
+      213: 1831246784092946520
+    second: blood moon sprite Opacity low_664
+  - first:
+      213: 1410664913303611890
+    second: blood moon sprite Opacity low_665
+  - first:
+      213: -4639111654396505927
+    second: blood moon sprite Opacity low_666
+  - first:
+      213: 4396214172982873435
+    second: blood moon sprite Opacity low_667
+  - first:
+      213: 4189441953155130179
+    second: blood moon sprite Opacity low_668
+  - first:
+      213: 6608062076894459729
+    second: blood moon sprite Opacity low_669
+  - first:
+      213: 8501282658033047850
+    second: blood moon sprite Opacity low_670
+  - first:
+      213: 677128224059046239
+    second: blood moon sprite Opacity low_671
+  - first:
+      213: 754336152227916071
+    second: blood moon sprite Opacity low_672
+  - first:
+      213: 5754099421032646721
+    second: blood moon sprite Opacity low_673
+  - first:
+      213: -8061415620893679568
+    second: blood moon sprite Opacity low_674
+  - first:
+      213: -7287247227886349214
+    second: blood moon sprite Opacity low_675
+  - first:
+      213: -6305538443390938594
+    second: blood moon sprite Opacity low_676
+  - first:
+      213: 8239149241736304060
+    second: blood moon sprite Opacity low_677
+  - first:
+      213: -1813757571656660244
+    second: blood moon sprite Opacity low_678
+  - first:
+      213: 2763721794728599282
+    second: blood moon sprite Opacity low_679
+  - first:
+      213: -1225107311323296634
+    second: blood moon sprite Opacity low_680
+  - first:
+      213: 1328413303911671077
+    second: blood moon sprite Opacity low_681
+  - first:
+      213: -6546589937326580946
+    second: blood moon sprite Opacity low_682
+  - first:
+      213: 4774101720437817094
+    second: blood moon sprite Opacity low_683
+  - first:
+      213: 3780640688666420718
+    second: blood moon sprite Opacity low_684
+  - first:
+      213: -9195784218300639284
+    second: blood moon sprite Opacity low_685
+  - first:
+      213: -4421924499118846992
+    second: blood moon sprite Opacity low_686
+  - first:
+      213: -5430755470032979433
+    second: blood moon sprite Opacity low_687
+  - first:
+      213: -620457822946216345
+    second: blood moon sprite Opacity low_688
+  - first:
+      213: 342822885530038164
+    second: blood moon sprite Opacity low_689
+  - first:
+      213: 91326054537171158
+    second: blood moon sprite Opacity low_690
+  - first:
+      213: -883159191137353434
+    second: blood moon sprite Opacity low_691
+  - first:
+      213: -1205864465008486412
+    second: blood moon sprite Opacity low_692
+  - first:
+      213: 2114017903028071039
+    second: blood moon sprite Opacity low_693
+  - first:
+      213: 2828661774626910406
+    second: blood moon sprite Opacity low_694
+  - first:
+      213: -7064451773119967530
+    second: blood moon sprite Opacity low_695
+  - first:
+      213: -2682610894603844325
+    second: blood moon sprite Opacity low_696
+  - first:
+      213: 4406199197495899559
+    second: blood moon sprite Opacity low_697
+  - first:
+      213: -4475848740641856779
+    second: blood moon sprite Opacity low_698
+  - first:
+      213: -4429102492419721098
+    second: blood moon sprite Opacity low_699
+  - first:
+      213: -7231274085593934136
+    second: blood moon sprite Opacity low_700
+  - first:
+      213: 1316892430961934166
+    second: blood moon sprite Opacity low_701
+  - first:
+      213: -4228853983386636649
+    second: blood moon sprite Opacity low_702
+  - first:
+      213: 2728349431715960219
+    second: blood moon sprite Opacity low_703
+  - first:
+      213: 6045572286543804309
+    second: blood moon sprite Opacity low_704
+  - first:
+      213: -1213628603521790792
+    second: blood moon sprite Opacity low_705
+  - first:
+      213: 2429291422179016294
+    second: blood moon sprite Opacity low_706
+  - first:
+      213: -5952589721623034336
+    second: blood moon sprite Opacity low_707
+  - first:
+      213: -2642050281360984147
+    second: blood moon sprite Opacity low_708
+  - first:
+      213: -7488674927620332883
+    second: blood moon sprite Opacity low_709
+  - first:
+      213: 329360409918097738
+    second: blood moon sprite Opacity low_710
+  - first:
+      213: 5931582666574771217
+    second: blood moon sprite Opacity low_711
+  - first:
+      213: 2577396531184156994
+    second: blood moon sprite Opacity low_712
+  - first:
+      213: -868792868223190551
+    second: blood moon sprite Opacity low_713
+  - first:
+      213: -5425930463113335402
+    second: blood moon sprite Opacity low_714
+  - first:
+      213: 3041047681465048709
+    second: blood moon sprite Opacity low_715
+  - first:
+      213: -3412695168739904820
+    second: blood moon sprite Opacity low_716
+  - first:
+      213: 8125353725967074454
+    second: blood moon sprite Opacity low_717
+  - first:
+      213: 4779015857167591400
+    second: blood moon sprite Opacity low_718
+  - first:
+      213: -6612458977917620048
+    second: blood moon sprite Opacity low_719
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 940
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca964443a07a2cfc0800000000000000
+      internalID: -3476032300108191316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 940
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89cf04d533719f90800000000000000
+      internalID: -6948646075027699317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 940
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc1d918aa5f7a5c0800000000000000
+      internalID: -4204121614459265848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_3
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 940
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7dbe0d93bb728c0800000000000000
+      internalID: -4024041885039601681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_4
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 940
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d359c197aa5ecd950800000000000000
+      internalID: 6475302884591047997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_5
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 940
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592e5e7e4a1e0e7a0800000000000000
+      internalID: -6349827376210910571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_6
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 940
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4044dcfb858984540800000000000000
+      internalID: 4992407693882639364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_7
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 940
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c4e0c4d7e662470800000000000000
+      internalID: 8369498441940618390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_8
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 812
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38d5945dfa264ce0800000000000000
+      internalID: -1421401364854613957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_9
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 813
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73be42c70036c7c0800000000000000
+      internalID: -4051498004890340482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_10
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 813
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7761cd2aaae3ced30800000000000000
+      internalID: 4462010233415014007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_11
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 813
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f017f27a767dd000800000000000000
+      internalID: 62336238139937016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_12
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 813
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648e85590de942860800000000000000
+      internalID: 7504297497802106950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_13
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 813
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d2cf630d10bd330800000000000000
+      internalID: 3736582309621280045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_14
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 813
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34457cb813bac3b00800000000000000
+      internalID: 809710262306690115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_15
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 813
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4deec12a06cae7ba0800000000000000
+      internalID: -6089240115121688876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 684
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fd9ffcd58d87b60800000000000000
+      internalID: 7744177456696385365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_17
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 684
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3e27af1b8d7aab0800000000000000
+      internalID: -4996787002621631513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_18
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 684
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa45e730d52f32b00800000000000000
+      internalID: 802751639906571439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_19
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 684
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291c280fb927dfb30800000000000000
+      internalID: 4322737231426142610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_20
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 684
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532a5c995af108810800000000000000
+      internalID: 1765445850039165493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_21
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 684
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6dc8916efd1cbc0800000000000000
+      internalID: -3764481634140891461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_22
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 684
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214f64616dc421390800000000000000
+      internalID: -7849126718172892142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_23
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 684
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e18448fcdd1cef0800000000000000
+      internalID: -89546634223411553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_24
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 556
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322e7d402b8a0ca30800000000000000
+      internalID: 4233569132267168291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_25
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 556
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd74edabf9f16390800000000000000
+      internalID: -7826699818043671090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_26
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 556
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca690cabc304179e0800000000000000
+      internalID: -1625447360928639316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_27
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 556
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fd112b55142e7a0800000000000000
+      internalID: -6349440688323436746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_28
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 556
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6961e029a9e125160800000000000000
+      internalID: 7012701218993477270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_29
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 556
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4601de8b98d354a0800000000000000
+      internalID: -6605698065794791858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_30
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 556
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3713db547abcea60800000000000000
+      internalID: 7704738071443609403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_31
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 556
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02344fc5dcdef080800000000000000
+      internalID: -9151634581906771444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_32
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 428
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0942b37e3156720800000000000000
+      internalID: 2838697023977590966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_33
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 428
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff86188cdc6f89190800000000000000
+      internalID: -7955337378057328385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_34
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 428
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738e0d797ba5598d0800000000000000
+      internalID: -2840264245414664137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_35
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 428
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d91fadb24c490c0800000000000000
+      internalID: -4569812029238305418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_36
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 428
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c718ec659b5140220800000000000000
+      internalID: 2451107982965899644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_37
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 428
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cedbfad144972fd0800000000000000
+      internalID: -2366760068592181562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_38
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 428
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415429cd02c862200800000000000000
+      internalID: 154965309958276372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_39
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 428
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f843fc4d0111d3190800000000000000
+      internalID: -7981204200643152753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_40
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 301
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4fdd39440918960800000000000000
+      internalID: 7602516270191080703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_41
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 301
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c33e42cd20eed7d0800000000000000
+      internalID: -2891627423587224637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_42
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 301
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c748ab324ede8f0800000000000000
+      internalID: -509500340718765047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_43
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 301
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6698c9c1ffc0507c0800000000000000
+      internalID: -4105861195442124442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_44
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 301
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8206604b644d7ab0800000000000000
+      internalID: -5008771983133506933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_45
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 301
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab06f2c469a9fd470800000000000000
+      internalID: 8421619798520062138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_46
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 301
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfb901c1ab937150800000000000000
+      internalID: 5869205858424569799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_47
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 300
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f783945e7d2ad0bc0800000000000000
+      internalID: -3815214261164492673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_48
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 172
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67e45f9fe3fe1770800000000000000
+      internalID: 8583566150310618991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_49
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 172
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f544e611545d0510800000000000000
+      internalID: 1516961356746868216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_50
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 172
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62127353c9b13f10800000000000000
+      internalID: 2247781937604334190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_51
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 172
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74d72ab714e8f440800000000000000
+      internalID: 4969972979361895547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_52
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 172
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5810b30523847be0800000000000000
+      internalID: -1480414182499149729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_53
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 172
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e2d267456784430800000000000000
+      internalID: 3767391193427422748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_54
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 172
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fd95da8bbadb030800000000000000
+      internalID: 3512152094089535376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_55
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 172
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4b1e99cb748a940800000000000000
+      internalID: 5307571036217259197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_56
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 44
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da27339212b097f50800000000000000
+      internalID: 6879542142838207149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_57
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 44
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e328922216ea8330800000000000000
+      internalID: 3714033808284591073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_58
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 44
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bc82bfe8e08a170800000000000000
+      internalID: 8189811929635146527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood moon sprite Opacity low_59
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 44
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4fc5b7e8b1f6ec0800000000000000
+      internalID: -3571605680712518476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
