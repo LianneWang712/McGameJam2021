@@ -7,6 +7,7 @@ public class enemy : MonoBehaviour
 {
     public GameObject zombieObject;
     public Transform player;
+    public GameObject playerObject;
     public Rigidbody2D zombierb;
     public Transform zombie;
     public float speed;
@@ -52,11 +53,14 @@ public class enemy : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        Debug.Log("collides");
         if (collision.CompareTag("bullet")){
             zombieObject.SetActive(false);
+            Destroy(collision.gameObject);
+            playerObject.GetComponent<playermovement>().hasKilled = true;
         }
-        if (collision.CompareTag("player")) {
+
+        // check if collision is with player and the player doesn't have i-frames
+        if (collision.CompareTag("player") && !playerObject.GetComponent<playermovement>().invicible) {
             if (heart3.activeInHierarchy)
             {
                 heart3.SetActive(false);

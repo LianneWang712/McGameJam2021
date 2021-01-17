@@ -15,6 +15,13 @@ public class playermovement : MonoBehaviour
     private Vector3 scaleRight = new Vector3(1, 1, 1);//use this localscale when the player is facing right
     private Vector3 scaleLeft = new Vector3(-1, 1, 1);// when player face left
     public GameObject projectilePrefab;
+    public float negXRange = -9.0f;
+    public float topYRange = 2.5f;
+    public float bottomYRange = -4.5f;
+    public GameObject heart1;
+    public bool invicible = false;
+    public bool hasKilled = false;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -23,10 +30,10 @@ public class playermovement : MonoBehaviour
     private void Update()
     {
         if (Input.GetKeyDown(KeyCode.Space))
-        {
-            
+        {    
             Instantiate(projectilePrefab, transform.position, projectilePrefab.transform.rotation);
         }
+        else animator.SetBool("shooting", false);
         if (Input.GetKey(KeyCode.Space)){
             animator.SetBool("shooting", true);
         }
@@ -40,11 +47,18 @@ public class playermovement : MonoBehaviour
         collisionCalled = false;
         movement.x = Input.GetAxisRaw("Horizontal");
         movement.y = Input.GetAxisRaw("Vertical");
-        if (movement != Vector3.zero )
+
+        // check to see if a game over has occured
+        if (!heart1.activeInHierarchy)
+        {
+            player.position = new Vector3(player.position.x, player.position.y, player.position.z);
+        }
+        else if (movement != Vector3.zero )
         {
             //if (moving == true || collisionCalled == false) {
             //  player.Translate(movement.x * speed * Time.fixedDeltaTime, movement.y * speed * Time.fixedDeltaTime, 0);
             //}
+            
             player.Translate(movement.x * speed * Time.fixedDeltaTime, movement.y * speed * Time.fixedDeltaTime, 0f);
 
             animator.SetBool("running", true);
@@ -57,10 +71,24 @@ public class playermovement : MonoBehaviour
             {
                 flip();
             }
-
         }
-        else { 
+        else
+        { 
             animator.SetBool("running", false); 
+        }
+
+        // check to make sure player doesn't go out of bounds
+        if (player.position.x < negXRange)
+        {
+            player.position = new Vector3(negXRange, player.position.y, player.position.z);
+        }
+        if (player.position.y > topYRange)
+        {
+            player.position = new Vector3(player.position.x, topYRange, player.position.z);
+        }
+        if (player.position.y < bottomYRange)
+        {
+            player.position = new Vector3(player.position.x, bottomYRange, player.position.z);
         }
 
     }
@@ -71,17 +99,36 @@ public class playermovement : MonoBehaviour
         player.localScale = scale;
     }
 
-    /* private void OnCollisionEnter2D(Collision2D collision)
-     {
-         collisionCalled = true;
-         if (collision.collider.tag == "Collision")
-         {
-             player.Translate(0, 0, 0);
-             Debug.Log("collides");
-             moving = false;
-         }
-         else moving = true;
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (!invicible)
+        {
+            if (collision.CompareTag("zombie"))
+            {
+                // start the flashing sprite animation and i-frames when hit by an enemy
+                StartCoroutine(Flashing());
+                StartCoroutine(Invulnerability());
+            }
+        }
+    }
 
-     }*/
+    IEnumerator Invulnerability()
+    {
+        invicible = true;
+        yield return new WaitForSeconds(2.0f);
+        invicible = false;
+    }
+
+    IEnumerator Flashing()
+    {
+        for (int n = 0; n < 2; n++)
+        {
+            
+            GetComponent<SpriteRenderer>().color = Color.red;
+            yield return new WaitForSeconds(0.5f);
+            GetComponent<SpriteRenderer>().color = Color.white;
+            yield return new WaitForSeconds(0.5f);
+        }   
+    }
+
 }
-
