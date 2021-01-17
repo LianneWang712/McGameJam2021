@@ -1,0 +1,1124 @@
+fileFormatVersion: 2
+guid: a8e6a75e60fbb9740ba2453a8ab68e0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6159951001635764453
+    second: Sci-fi Samurai Bandit-Spritet_0
+  - first:
+      213: -3731621358763569149
+    second: Sci-fi Samurai Bandit-Spritet_1
+  - first:
+      213: -7308745023479061878
+    second: Sci-fi Samurai Bandit-Spritet_2
+  - first:
+      213: -3238842500388385195
+    second: Sci-fi Samurai Bandit-Spritet_3
+  - first:
+      213: 2497511364506936005
+    second: Sci-fi Samurai Bandit-Spritet_4
+  - first:
+      213: 7788728514606107658
+    second: Sci-fi Samurai Bandit-Spritet_5
+  - first:
+      213: -4744140935590535597
+    second: Sci-fi Samurai Bandit-Spritet_6
+  - first:
+      213: 2316463332081811292
+    second: Sci-fi Samurai Bandit-Spritet_7
+  - first:
+      213: -2718588245261529140
+    second: Sci-fi Samurai Bandit-Spritet_8
+  - first:
+      213: -6375550625124172449
+    second: Sci-fi Samurai Bandit-Spritet_9
+  - first:
+      213: -844769392956806069
+    second: Sci-fi Samurai Bandit-Spritet_10
+  - first:
+      213: -8872915212898255171
+    second: Sci-fi Samurai Bandit-Spritet_11
+  - first:
+      213: 2659560944868575875
+    second: Sci-fi Samurai Bandit-Spritet_12
+  - first:
+      213: -6452513638433750103
+    second: Sci-fi Samurai Bandit-Spritet_13
+  - first:
+      213: -1090807747612935071
+    second: Sci-fi Samurai Bandit-Spritet_14
+  - first:
+      213: -957259686397496964
+    second: Sci-fi Samurai Bandit-Spritet_15
+  - first:
+      213: 3809018344947450391
+    second: Sci-fi Samurai Bandit-Spritet_16
+  - first:
+      213: -841928464520582276
+    second: Sci-fi Samurai Bandit-Spritet_17
+  - first:
+      213: -8232602370981363166
+    second: Sci-fi Samurai Bandit-Spritet_18
+  - first:
+      213: -1147051968402068599
+    second: Sci-fi Samurai Bandit-Spritet_19
+  - first:
+      213: -7117455026556580149
+    second: Sci-fi Samurai Bandit-Spritet_20
+  - first:
+      213: 4585296089914865475
+    second: Sci-fi Samurai Bandit-Spritet_21
+  - first:
+      213: 3653182488599147889
+    second: Sci-fi Samurai Bandit-Spritet_22
+  - first:
+      213: -7719117314071510926
+    second: Sci-fi Samurai Bandit-Spritet_23
+  - first:
+      213: 2729918567833703853
+    second: Sci-fi Samurai Bandit-Spritet_24
+  - first:
+      213: -2353540691100667985
+    second: Sci-fi Samurai Bandit-Spritet_25
+  - first:
+      213: -4533059024909859987
+    second: Sci-fi Samurai Bandit-Spritet_26
+  - first:
+      213: -15056147415104045
+    second: Sci-fi Samurai Bandit-Spritet_27
+  - first:
+      213: -4194608859507865107
+    second: Sci-fi Samurai Bandit-Spritet_28
+  - first:
+      213: -7748826431858027207
+    second: Sci-fi Samurai Bandit-Spritet_29
+  - first:
+      213: -4559660880916094447
+    second: Sci-fi Samurai Bandit-Spritet_30
+  - first:
+      213: -7995056131989998153
+    second: Sci-fi Samurai Bandit-Spritet_31
+  - first:
+      213: 7203588899837989101
+    second: Sci-fi Samurai Bandit-Spritet_32
+  - first:
+      213: -7721055903768106243
+    second: Sci-fi Samurai Bandit-Spritet_33
+  - first:
+      213: 535635562966769444
+    second: Sci-fi Samurai Bandit-Spritet_34
+  - first:
+      213: 1686435309387654066
+    second: Sci-fi Samurai Bandit-Spritet_35
+  - first:
+      213: 3635205641132839606
+    second: Sci-fi Samurai Bandit-Spritet_36
+  - first:
+      213: 4474192171533701037
+    second: Sci-fi Samurai Bandit-Spritet_37
+  - first:
+      213: -4587944465439386980
+    second: Sci-fi Samurai Bandit-Spritet_38
+  - first:
+      213: 7129153587082105821
+    second: Sci-fi Samurai Bandit-Spritet_39
+  - first:
+      213: 3743585200868792956
+    second: Sci-fi Samurai Bandit-Spritet_40
+  - first:
+      213: 3234381822927344727
+    second: Sci-fi Samurai Bandit-Spritet_41
+  - first:
+      213: 9129553000172817293
+    second: Sci-fi Samurai Bandit-Spritet_42
+  - first:
+      213: 542206269015064463
+    second: Sci-fi Samurai Bandit-Spritet_43
+  - first:
+      213: -561820585370790524
+    second: Sci-fi Samurai Bandit-Spritet_44
+  - first:
+      213: -8041883899311817754
+    second: Sci-fi Samurai Bandit-Spritet_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 326
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1740b96335738aa0800000000000000
+      internalID: -6159951001635764453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 326
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30013aa252e963cc0800000000000000
+      internalID: -3731621358763569149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 326
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2efe78a51f8a220800000000000000
+      internalID: 2497511364506936005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 326
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e9cb164fc692eb0800000000000000
+      internalID: -4744140935590535597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_7
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 326
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f34fb902bb52020800000000000000
+      internalID: 2316463332081811292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_8
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 326
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf42a60562a54ad0800000000000000
+      internalID: -2718588245261529140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 262
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cefaf76b6c644f0800000000000000
+      internalID: -844769392956806069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_11
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 262
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe3a05ef921dd480800000000000000
+      internalID: -8872915212898255171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_12
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 262
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ac461a698a8e420800000000000000
+      internalID: 2659560944868575875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_13
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 262
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a30bc068011476a0800000000000000
+      internalID: -6452513638433750103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_14
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 262
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c7945022cacd0f0800000000000000
+      internalID: -1090807747612935071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 262
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71b972136127b2f0800000000000000
+      internalID: -957259686397496964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 211
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7120a81f00a5cd430800000000000000
+      internalID: 3809018344947450391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_17
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 211
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7be5f1b58ed054f0800000000000000
+      internalID: -841928464520582276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_18
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 198
+        width: 50
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2220e9403cbefbd80800000000000000
+      internalID: -8232602370981363166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_19
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 198
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b6b74ef4ad410f0800000000000000
+      internalID: -1147051968402068599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_20
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 172
+        width: 18
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcec64dfc58b93d90800000000000000
+      internalID: -7117455026556580149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_21
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 198
+        width: 59
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347fc55ff7e32af30800000000000000
+      internalID: 4585296089914865475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_22
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 198
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17531a43e16b2b230800000000000000
+      internalID: 3653182488599147889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_23
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 198
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270433353bf20e490800000000000000
+      internalID: -7719117314071510926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 108
+        width: 17
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da59875497e92e520800000000000000
+      internalID: 2729918567833703853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_25
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 108
+        width: 21
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf6486063b865fd0800000000000000
+      internalID: -2353540691100667985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_26
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 108
+        width: 21
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d638e5285d65711c0800000000000000
+      internalID: -4533059024909859987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_27
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 172
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d503a183828acff0800000000000000
+      internalID: -15056147415104045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_28
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 172
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9c35d5771c9c5c0800000000000000
+      internalID: -4194608859507865107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_29
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 136
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935d1fe4a63a67490800000000000000
+      internalID: -7748826431858027207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_30
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 136
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11260c04694d8b0c0800000000000000
+      internalID: -4559660880916094447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_31
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 87
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b57d6dbecadb0190800000000000000
+      internalID: -7995056131989998153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_32
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 85
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de05aca20f948f360800000000000000
+      internalID: 7203588899837989101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_33
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 70
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa28fc309c49d490800000000000000
+      internalID: -7721055903768106243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_34
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 70
+        width: 44
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f53b3e4b5fe6700800000000000000
+      internalID: 535635562966769444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_35
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 82
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b32ab09afb676710800000000000000
+      internalID: 1686435309387654066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_36
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 70
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2183d3548d27230800000000000000
+      internalID: 3635205641132839606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_37
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 82
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf89112316871e30800000000000000
+      internalID: 4474192171533701037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_38
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 70
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92144011d85450c0800000000000000
+      internalID: -4587944465439386980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_39
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 70
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd31b336a67dfe260800000000000000
+      internalID: 7129153587082105821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_40
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 70
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a9134e7e2e3f330800000000000000
+      internalID: 3743585200868792956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_41
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 6
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7549097a125d2ec20800000000000000
+      internalID: 3234381822927344727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_42
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 6
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b076d4510b2be70800000000000000
+      internalID: 9129553000172817293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_43
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 6
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ff1ab9abd468700800000000000000
+      internalID: 542206269015064463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_44
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 6
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485d87d77230438f0800000000000000
+      internalID: -561820585370790524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai Bandit-Spritet_45
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 6
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebf598833d756090800000000000000
+      internalID: -8041883899311817754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
